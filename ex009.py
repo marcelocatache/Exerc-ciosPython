@@ -1,0 +1,39 @@
+#TABUADA MULTIPLICAÇÃO
+
+#n=int(input('Digite qual tabuada vc deseja ver: '))
+#a=n*1
+#b=n*2
+#c=n*3
+#d=n*4
+#e=n*5
+#f=n*6
+#=n*7
+#h=n*8
+#i=n*9
+#j=n*10
+#print('='*12)
+#print(' {} x 1 = {}'.format(n, a))
+#print(' {} x 2 = {}'.format(n, b))
+#print(' {} x 3 = {}'.format(n, c))
+#print(' {} x 4 = {}'.format(n, d))
+#print(' {} x 5 = {}'.format(n, e))
+#print(' {} x 6 = {}'.format(n, f))
+#print(' {} x 7 = {}'.format(n, g))
+#print(' {} x 8 = {}'.format(n, h))
+#print(' {} x 9 = {}'.format(n, i))
+#print(' {} x10 = {}'.format(n, j))
+#print('='*12)
+
+num=int(input('Digite qual tabuada vc deseja ver: '))
+print('='*13)
+print(' {} x {:2} = {}'.format(num, 1, num*1))
+print(' {} x {:2} = {}'.format(num, 2, num*2))
+print(' {} x {:2} = {}'.format(num, 3, num*3))
+print(' {} x {:2} = {}'.format(num, 4, num*4))
+print(' {} x {:2} = {}'.format(num, 5, num*5))
+print(' {} x {:2} = {}'.format(num, 6, num*6))
+print(' {} x {:2} = {}'.format(num, 7, num*7))
+print(' {} x {:2} = {}'.format(num, 8, num*8))
+print(' {} x {:2} = {}'.format(num, 9, num*9))
+print(' {} x {:2} = {}'.format(num, 10, num*10))
+print('='*13)
